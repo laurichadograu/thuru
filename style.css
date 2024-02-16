@@ -8,3 +8,8 @@
     --números: rgba(255, 255, 60, 1);
     --letras: rgba(255, 255, 255, 1);
 }
+body{
+    background-color: var(--cordefundo);
+    color: var(--texto)
+    font-family: 'Chakra Petch', 'Sans-Serif';
+}
