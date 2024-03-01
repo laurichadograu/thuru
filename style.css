@@ -31,3 +31,9 @@ body{
     .titulo-principal span{
         color: var(--texto)
     }
+
+    .botao{
+        font-family: 'Shakra Petch', Sans-Serif;
+        background-color: var(--botao-inativo);
+        color: var(--branco);
+    }
