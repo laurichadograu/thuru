@@ -54,7 +54,7 @@ body{
     }
     .ativo{
         background-color: var(--botaoativo);
-        border-bottom: 4px solid var(--branco);
+        border-bottom: 4px solid var(--botaoativo);
     }
     @media screen and (min-width: 768px){
         .botoes{
