@@ -21,6 +21,6 @@ for (let i = 0; i < botoes.length; i++){
         let horas = Math.floor(minutos / 60);
         let dias = Math.floor(horas / 24);
 
-        return dia + "dias" + horas + "horas" + minutos "minutos" + segundos + "segundos";
+        return dias + "dias" + horas + "horas" + minutos "minutos" + segundos + "segundos";
         }
 
