@@ -27,7 +27,7 @@ for (let i = 0; i < botoes.length; i++){
 
         return dias + "dias" 
                 + horas + "horas" 
-                + minutos "minutos" 
+                + minutos + "minutos" 
                 + segundos + "segundos";
     }
 
